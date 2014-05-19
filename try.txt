@@ -1,0 +1,2 @@
+1.add new txt in the test2
+2.add 1 raw in the newBranch 
