@@ -1,2 +1,4 @@
 1.add new txt in the test2
 2.add 1 raw in the newBranch 
+2.add 2 raw in the master
+3.add 1 raw in newBranch
